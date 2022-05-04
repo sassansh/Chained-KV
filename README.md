@@ -25,7 +25,7 @@
 
 ## Assignment Spec 🎯
 
-For a PDF containing the assignent's specifications, please view [assignment-spec.pdf](https://github.com/sassansh/Chained-KV/blob/main/assignment-spec.pdf).
+For a PDF containing the assignment's specifications, please view [assignment-spec.pdf](https://github.com/sassansh/Chained-KV/blob/main/assignment-spec.pdf).
 
 ## Technology Stack 🛠️
 
